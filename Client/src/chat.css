@@ -1,0 +1,15 @@
+.chat-container{
+    background-color: aquamarine;
+    height: 400px;
+    width: 204px;
+    border-radius: 13px;
+    position: relative;
+}
+
+.footer{
+    position:absolute;  
+    bottom: 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
